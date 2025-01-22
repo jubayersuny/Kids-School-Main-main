@@ -241,6 +241,13 @@ main {
   height: 60px;
   border-radius: 50%;
   background-color: rgba(255, 144, 14, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.curriculum-ball i {
+  color: white;
+  font-size: 24px;
 }
 /* story */
 .story {
@@ -398,7 +405,7 @@ main {
 footer {
   margin-top: 0;
 
-  background-color: #052932;
+  background-color: #17697d;
   color: #fff;
   padding: 40px 20px;
 }
